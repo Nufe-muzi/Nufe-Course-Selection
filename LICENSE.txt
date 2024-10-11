@@ -1,0 +1,8 @@
+                    Personal Use License
+
+This software is licensed for personal, educational, and non-commercial use only.
+You are allowed to use, modify, and distribute the code for personal projects and learning purposes.
+Commercial use, distribution, or modification of this software for profit is strictly prohibited.
+The author(s) of this software disclaim any liability for damages resulting from its use.
+
+By using this software, you agree to abide by the terms of this license.
