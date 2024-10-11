@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🏫Nufe-抢课脚本
-
+  <img src="https://github.com/Nufe-muzi/Nufe-Course-Selection/blob/main/example.gif"></img>
 </div>
 
 ## 👀Overview
