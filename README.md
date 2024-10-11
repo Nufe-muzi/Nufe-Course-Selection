@@ -47,4 +47,4 @@
 
 
 ## ®️License
-在使用前请务必查看许可信息！！！ **[LICENSE](https://github.com/Nufe-muzi/Nufe-CourseSelection/blob/main/LICENSE)**
+在使用前请务必查看许可信息！！！ **[LICENSE](https://github.com/Nufe-muzi/Nufe-CourseSelection/tree/main/LICENSE)**
