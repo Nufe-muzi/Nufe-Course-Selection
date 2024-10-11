@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏫Nufe-CourseSelection
+# 🏫Nufe-抢课脚本
 
 </div>
 
