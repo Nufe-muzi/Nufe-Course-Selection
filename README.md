@@ -11,6 +11,8 @@
 
 > [!NOTE]
 > 代码中有个别地方需要自己修改！你需要下载谷歌浏览器以及驱动！
+> 你需要将下载好的chrome-win64文件夹放到"Nufe-Course-Selection-main/"
+> exe驱动也需要放到"Nufe-Course-Selection-main/chrome-win64"
 > 可以更改手动输入登录，或者提前预输入
 
 ## 📚Requirements
@@ -41,6 +43,8 @@
 
 ## 👍Support the project
 点个赞，帮助自己朋友就够了！
+
+
 
 ## ®️License
 在使用前请务必查看许可信息！！！ **[LICENSE](https://github.com/Nufe-muzi/Nufe-CourseSelection/blob/main/LICENSE)**
