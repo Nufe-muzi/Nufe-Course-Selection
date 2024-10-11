@@ -44,7 +44,7 @@ data_request = {
     "coursePackAssoc": None
 }
 
-#协议请求头 只用寻找 Authorization
+#协议请求头 只用寻找 Cookie
 headers = {
     # 'Accept': 'application/json, text/plain, */*',
     # 'Accept-Encoding': 'gzip, deflate, br',
@@ -52,7 +52,7 @@ headers = {
     'Authorization': '',
     # 'Content-Length': '134',
     # 'Content-Type': 'application/json',
-    # 'Cookie': 'cs-course-select-student-token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJzdXB3aXNkb20iLCJleHAiOjE3MjU5MDAyMDgsInVzZXJuYW1lIjoiMjEyMDIzMTM0MiJ9.lYL-TsLjDi9nkDfoE0_v4ij503j9XKDk_pMs5urfZK0',
+    # 'Cookie': '',
     # 'Origin': 'https://jwxt.nufe.edu.cn',
     # 'Referer': 'https://jwxt.nufe.edu.cn/course-selection/',
     # 'Sec-Ch-Ua': '"Not)A;Brand";v="24", "Chromium";v="116"',
